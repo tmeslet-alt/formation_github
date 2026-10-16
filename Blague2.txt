@@ -1,0 +1,4 @@
+C'est l'anniversaire du père de Toto. Il lui demande : « Ce qui me ferait le plus plaisir pour mon anniversaire, c'est que tu maîtrises bien Github ! »
+Toto : « Ok »
+
+Fin.
